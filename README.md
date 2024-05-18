@@ -4,6 +4,7 @@ Repositório do código do trabalho de conclusão da disciplina: Objetos Intelig
 
 **
  * @file ESP8266_ESP-01_Entradas_Send_MQTT.ino
+ * @author Saulo Aislan
  * @brief Firmware que lê entradas digital e analógica e envia os dados via MQTT.
  * @version 0.1
  */
