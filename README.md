@@ -1,4 +1,5 @@
-# obj_int_con
+Repositório do código do trabalho de conclusão da disciplina: Objetos Inteligentes conectados.
+
 /**
  * @file ESP8266_ESP-01_Entradas_Send_MQTT.ino
  * @brief Firmware que lê entradas digital e analógica e envia os dados via MQTT.
